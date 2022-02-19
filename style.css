@@ -1,0 +1,64 @@
+body{
+  background-color: #FBFBFB;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+.navbar {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background: linear-gradient(#535F53,#7BA4FE);
+}
+.layer{
+  background: linear-gradient(#540F6C,#31063B);
+}
+.jumbotron {
+  background-image: url(./gambar/2019_02_27_Sejarah-SMK-Negeri-5-Malang-yang-Berdiri-di-Era-Krisis-Moneter.jpg);
+  background-size:cover;
+  padding-top: 20rem;
+  padding-bottom: 30rem;
+  color: bisque;
+  -webkit-text-stroke: 3px black;
+	-webkit-text-fill-color: white;
+  border-radius: 0px 0px 50px 50px;
+}
+.about{
+  padding-left: 4rem;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#projects {
+ background: linear-gradient(#8c8d8f,#edbc81);
+ 
+ color:#FFC3B1;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.teks{
+  -webkit-text-stroke: 1px white;
+}
+.footer {
+  background: linear-gradient(#ECBC81,#808C97);
+}
+.bawah{
+  color: #000000;
+}
+.colom {
+  padding-left: 8rem;
+}
+.colom1{
+  width: 29%;
+  height: 38%;
+  color: #B3A089;
+}
+.colom2{
+  width: 31%;
+  height: 40%;
+}
+.colom3{
+  width: 29%;
+  height: 38%;
+}
+
+section {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  
+}
